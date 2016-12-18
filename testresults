@@ -1,0 +1,213 @@
+Starting passenger 4
+Starting passenger 6
+Starting passenger 2
+Starting passenger 5
+Starting passenger 9
+Starting passenger 0
+Starting passenger 8
+Starting passenger 3
+Starting passenger 1
+Starting passenger 7
+Starting elevator 0
+Moving elevator 0 up from 0
+Moving elevator 0 down from 1
+Opening elevator 0 at floor 0
+Closing elevator 0 at floor 0
+Moving elevator 0 up from 0
+Moving elevator 0 up from 1
+Moving elevator 0 up from 2
+Moving elevator 0 up from 3
+Opening elevator 0 at floor 4
+Closing elevator 0 at floor 4
+Moving elevator 0 down from 4
+Moving elevator 0 up from 3
+Opening elevator 0 at floor 4
+Closing elevator 0 at floor 4
+Moving elevator 0 down from 4
+Moving elevator 0 down from 3
+Moving elevator 0 down from 2
+Opening elevator 0 at floor 1
+Closing elevator 0 at floor 1
+Moving elevator 0 down from 1
+Moving elevator 0 up from 0
+Opening elevator 0 at floor 1
+Closing elevator 0 at floor 1
+Moving elevator 0 up from 1
+Opening elevator 0 at floor 2
+Closing elevator 0 at floor 2
+Moving elevator 0 up from 2
+Moving elevator 0 down from 3
+Opening elevator 0 at floor 2
+Closing elevator 0 at floor 2
+Moving elevator 0 down from 2
+Moving elevator 0 down from 1
+Opening elevator 0 at floor 0
+Closing elevator 0 at floor 0
+Moving elevator 0 up from 0
+Moving elevator 0 down from 1
+Opening elevator 0 at floor 0
+Closing elevator 0 at floor 0
+Moving elevator 0 up from 0
+Opening elevator 0 at floor 1
+Closing elevator 0 at floor 1
+Moving elevator 0 up from 1
+Opening elevator 0 at floor 2
+Closing elevator 0 at floor 2
+Moving elevator 0 down from 2
+Opening elevator 0 at floor 1
+Closing elevator 0 at floor 1
+Moving elevator 0 up from 1
+Opening elevator 0 at floor 2
+Closing elevator 0 at floor 2
+Moving elevator 0 up from 2
+Moving elevator 0 down from 3
+Opening elevator 0 at floor 2
+Closing elevator 0 at floor 2
+Moving elevator 0 up from 2
+Opening elevator 0 at floor 3
+Closing elevator 0 at floor 3
+Moving elevator 0 down from 3
+Moving elevator 0 down from 2
+Opening elevator 0 at floor 1
+Closing elevator 0 at floor 1
+Moving elevator 0 up from 1
+Moving elevator 0 up from 2
+Opening elevator 0 at floor 3
+Closing elevator 0 at floor 3
+Moving elevator 0 down from 3
+Moving elevator 0 down from 2
+Moving elevator 0 down from 1
+Opening elevator 0 at floor 0
+Closing elevator 0 at floor 0
+Moving elevator 0 up from 0
+Moving elevator 0 up from 1
+Moving elevator 0 up from 2
+Opening elevator 0 at floor 3
+Closing elevator 0 at floor 3
+Moving elevator 0 down from 3
+Moving elevator 0 down from 2
+Opening elevator 0 at floor 1
+Closing elevator 0 at floor 1
+All 10 passengers finished their 1 trips each.
+Total time elapsed: 4701 ms, 470 slots
+Mean time: 2537.20 max: 4601.00
+Starting passenger 3
+Starting passenger 0
+Starting passenger 4
+Starting passenger 2
+Starting passenger 5
+Starting passenger 1
+Starting passenger 6
+Starting passenger 7
+Starting passenger 8
+Starting passenger 9
+Starting passenger 10
+Starting passenger 11
+Starting passenger 12
+Starting passenger 13
+Starting passenger 14
+Starting passenger 16
+Starting passenger 15
+Starting passenger 22
+Starting passenger 18
+Starting passenger 19
+Starting passenger 20
+Starting passenger 21
+Starting passenger 17
+Starting passenger 25
+Starting passenger 26
+Starting passenger 27
+Starting passenger 24
+Starting passenger 23
+Starting passenger 28
+Starting passenger 30
+Starting passenger 29
+Starting passenger 31
+Starting passenger 32
+Starting passenger 33
+Starting passenger 34
+Starting passenger 35
+Starting passenger 36
+Starting passenger 37
+Starting passenger 38
+Starting passenger 39
+Starting passenger 41
+Starting passenger 42
+Starting passenger 43
+Starting passenger 44
+Starting passenger 40
+Starting passenger 46
+Starting passenger 47
+Starting passenger 48
+Starting passenger 45
+Starting passenger 49
+Starting elevator 0
+Starting elevator 3
+Starting elevator 1
+Starting elevator 2
+All 50 passengers finished their 1 trips each.
+Total time elapsed: 6013 ms, 601 slots
+Mean time: 3081.40 max: 5913.00
+Starting passenger 4
+Starting passenger 2
+Starting passenger 5
+Starting passenger 6
+Starting passenger 3
+Starting passenger 1
+Starting passenger 7
+Starting passenger 8
+Starting passenger 0
+Starting passenger 10
+Starting passenger 9
+Starting passenger 17
+Starting passenger 12
+Starting passenger 13
+Starting passenger 14
+Starting passenger 15
+Starting passenger 16
+Starting passenger 11
+Starting passenger 20
+Starting passenger 21
+Starting passenger 19
+Starting passenger 18
+Starting passenger 23
+Starting passenger 28
+Starting passenger 24
+Starting passenger 25
+Starting passenger 26
+Starting passenger 27
+Starting passenger 22
+Starting passenger 31
+Starting passenger 32
+Starting passenger 33
+Starting passenger 34
+Starting passenger 30
+Starting passenger 36
+Starting passenger 35
+Starting passenger 37
+Starting passenger 38
+Starting passenger 39
+Starting passenger 40
+Starting passenger 43
+Starting passenger 42
+Starting passenger 41
+Starting passenger 45
+Starting passenger 46
+Starting passenger 47
+Starting passenger 48
+Starting passenger 49
+Starting passenger 29
+Starting passenger 44
+Starting elevator 3
+Starting elevator 0
+Starting elevator 5
+Starting elevator 6
+Starting elevator 7
+Starting elevator 4
+Starting elevator 2
+Starting elevator 8
+Starting elevator 9
+Starting elevator 1
+All 50 passengers finished their 1 trips each.
+Total time elapsed: 3062 ms, 306 slots
+Mean time: 1591.82 max: 2961.00
